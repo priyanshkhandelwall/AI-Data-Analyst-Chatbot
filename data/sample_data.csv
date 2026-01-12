@@ -1,0 +1,46 @@
+product_id,product_name,category,price,quantity_sold,revenue,region,month,customer_satisfaction,return_rate
+1,Laptop Pro,Electronics,1299.99,150,194998.50,North America,January,4.5,0.02
+2,Wireless Mouse,Electronics,29.99,500,14995.00,North America,January,4.2,0.05
+3,USB-C Cable,Electronics,12.99,1200,15588.00,North America,January,3.8,0.08
+4,Monitor 27",Electronics,349.99,200,69998.00,North America,January,4.3,0.03
+5,Keyboard Mechanical,Electronics,89.99,300,26997.00,North America,January,4.6,0.01
+6,Laptop Pro,Electronics,1299.99,180,233998.20,Europe,January,4.4,0.03
+7,Wireless Mouse,Electronics,29.99,450,13495.50,Europe,January,4.1,0.06
+8,USB-C Cable,Electronics,12.99,1100,14289.00,Europe,January,3.9,0.07
+9,Monitor 27",Electronics,349.99,220,76997.80,Europe,January,4.2,0.04
+10,Keyboard Mechanical,Electronics,89.99,280,25197.20,Europe,January,4.5,0.02
+11,Laptop Pro,Electronics,1299.99,120,155998.80,Asia,January,4.3,0.04
+12,Wireless Mouse,Electronics,29.99,380,11396.20,Asia,January,4.0,0.07
+13,USB-C Cable,Electronics,12.99,950,12340.50,Asia,January,3.7,0.09
+14,Monitor 27",Electronics,349.99,180,62998.20,Asia,January,4.1,0.05
+15,Keyboard Mechanical,Electronics,89.99,250,22497.50,Asia,January,4.4,0.03
+16,Laptop Pro,Electronics,1299.99,200,259998.00,North America,February,4.6,0.01
+17,Wireless Mouse,Electronics,29.99,550,16494.50,North America,February,4.3,0.04
+18,USB-C Cable,Electronics,12.99,1300,16887.00,North America,February,3.9,0.07
+19,Monitor 27",Electronics,349.99,230,80497.70,North America,February,4.4,0.02
+20,Keyboard Mechanical,Electronics,89.99,320,28796.80,North America,February,4.7,0.01
+21,Laptop Pro,Electronics,1299.99,210,272997.90,Europe,February,4.5,0.02
+22,Wireless Mouse,Electronics,29.99,480,14395.20,Europe,February,4.2,0.05
+23,USB-C Cable,Electronics,12.99,1150,14938.50,Europe,February,4.0,0.06
+24,Monitor 27",Electronics,349.99,240,83997.60,Europe,February,4.3,0.03
+25,Keyboard Mechanical,Electronics,89.99,300,26997.00,Europe,February,4.6,0.02
+26,Laptop Pro,Electronics,1299.99,140,181998.60,Asia,February,4.4,0.03
+27,Wireless Mouse,Electronics,29.99,400,11996.00,Asia,February,4.1,0.06
+28,USB-C Cable,Electronics,12.99,1000,12990.00,Asia,February,3.8,0.08
+29,Monitor 27",Electronics,349.99,200,69998.00,Asia,February,4.2,0.04
+30,Keyboard Mechanical,Electronics,89.99,270,24297.30,Asia,February,4.5,0.02
+31,Laptop Pro,Electronics,1299.99,170,220998.30,North America,March,4.4,0.02
+32,Wireless Mouse,Electronics,29.99,520,15594.80,North America,March,4.2,0.05
+33,USB-C Cable,Electronics,12.99,1250,16237.50,North America,March,3.9,0.07
+34,Monitor 27",Electronics,349.99,210,73497.90,North America,March,4.3,0.03
+35,Keyboard Mechanical,Electronics,89.99,310,27896.90,North America,March,4.6,0.01
+36,Laptop Pro,Electronics,1299.99,190,246998.10,Europe,March,4.5,0.02
+37,Wireless Mouse,Electronics,29.99,470,14095.30,Europe,March,4.1,0.06
+38,USB-C Cable,Electronics,12.99,1100,14289.00,Europe,March,3.9,0.07
+39,Monitor 27",Electronics,349.99,230,80497.70,Europe,March,4.2,0.04
+40,Keyboard Mechanical,Electronics,89.99,290,26097.10,Europe,March,4.5,0.02
+41,Laptop Pro,Electronics,1299.99,130,168998.70,Asia,March,4.3,0.04
+42,Wireless Mouse,Electronics,29.99,390,11696.10,Asia,March,4.0,0.07
+43,USB-C Cable,Electronics,12.99,980,12730.20,Asia,March,3.7,0.09
+44,Monitor 27",Electronics,349.99,190,66498.10,Asia,March,4.1,0.05
+45,Keyboard Mechanical,Electronics,89.99,260,23397.40,Asia,March,4.4,0.03
